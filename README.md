@@ -16,7 +16,7 @@ The purpose of this challenge is to go over the original code and refactor it to
 
 The original code's purpose was to look through two data tables(2017 and 2018) to find the volume and return for each ticker and display the results on a new tab within a data table. We added a few formatting commads as well in order to call out the most disired stocks at a glance.
 
-Below is the message box that displays the runtime of our original code
+Below is the message box that displays the runtime of our original code:
 
 <img src="https://github.com/brown-rox20/stock-analysis/raw/main/Resources/VBA_Challenge_2017.png" alt="VBA_Challenge_2017.png" width="340">
 
