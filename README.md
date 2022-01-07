@@ -18,7 +18,7 @@ The original code's purpose was to look through two data tables(2017 and 2018) t
 
 Below is the message box that displays the runtime of our original code
 
-![This an image](https://github.com/brown-rox20/stock-analysis/commit/6c915284a89d309cb58a9c0a5ccfaeeb70fda08b)
+![VBA_Challenge_2017.png](https://github.com/brown-rox20/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 # Summary
 
